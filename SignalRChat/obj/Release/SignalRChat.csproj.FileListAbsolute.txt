@@ -1,0 +1,14 @@
+E:\DemoProjects\SignalRChat\SignalRChat\bin\SignalRChat.dll.config
+E:\DemoProjects\SignalRChat\SignalRChat\bin\SignalRChat.dll
+E:\DemoProjects\SignalRChat\SignalRChat\bin\SignalRChat.pdb
+E:\DemoProjects\SignalRChat\SignalRChat\bin\Microsoft.Web.Infrastructure.dll
+E:\DemoProjects\SignalRChat\SignalRChat\bin\Newtonsoft.Json.dll
+E:\DemoProjects\SignalRChat\SignalRChat\bin\Microsoft.AspNet.SignalR.Core.xml
+E:\DemoProjects\SignalRChat\SignalRChat\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+E:\DemoProjects\SignalRChat\SignalRChat\bin\Microsoft.Owin.xml
+E:\DemoProjects\SignalRChat\SignalRChat\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\DemoProjects\SignalRChat\SignalRChat\bin\Microsoft.Owin.Security.xml
+E:\DemoProjects\SignalRChat\SignalRChat\bin\Microsoft.Web.Infrastructure.xml
+E:\DemoProjects\SignalRChat\SignalRChat\obj\Release\SignalRChat.csprojResolveAssemblyReference.cache
+E:\DemoProjects\SignalRChat\SignalRChat\obj\Release\SignalRChat.dll
+E:\DemoProjects\SignalRChat\SignalRChat\obj\Release\SignalRChat.pdb
